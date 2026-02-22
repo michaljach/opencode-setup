@@ -7,7 +7,7 @@ It intentionally stores documentation only, not a raw file backup directory.
 ## Included Files
 
 - `README.md` (this document)
-- `AGENTS.md` (copied from global `~/.config/opencode/AGENTS.md`)
+- [`AGENTS.md`](AGENTS.md) (copied from global `~/.config/opencode/AGENTS.md`)
 
 ## Current OpenCode Snapshot
 
@@ -42,12 +42,6 @@ It intentionally stores documentation only, not a raw file backup directory.
 ### Additional skills (`~/.claude/skills`)
 
 - `frontend-design`
-
-## Exclusions
-
-- No `backup/` folder is kept in this repository.
-- No runtime/cache artifacts (`node_modules`, logs, temp files).
-- No account/session data (`antigravity-accounts.json`, signature caches/logs).
 
 ## How To Refresh This Documentation
 
